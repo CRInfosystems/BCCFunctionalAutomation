@@ -1,0 +1,5 @@
+|postcode|offstreet|priavteparking|lookupaddress|expectedmsg|
+|BS2 9LG |no|no|2|3 residents' permit|
+|BS2 8UB|no|yes|2|1 residents' permit|
+|BS2 8XE|yes|no|2|1 residents' permit|
+|BS2 9QE|yes|yes|2|1 residents' permit|

@@ -1,0 +1,6 @@
+|request|title|firstName|lastName|yourOrg|idonthaveemail |addressLine1 |addressLine2|addressLine3|addressLine4|postCode|country|OtherCountry|uploaddoc|
+|this is a test script |Mr  |automation|Insprinttesting|just try| yes | london road |123 | |reading |rg8 5dd |United Kingdom | |
+|this is a test script |Mr  |automation|Insprinttesting|just try| yes | london road |addressline2 | |reading |rg8 5dd |United Kingdom | |Y|
+|this is a test script |Mr  |automation|Insprinttesting|just try| yes |london road |addressline2 | addressline3|reading |rg8 5dd |United Kingdom | |
+|this is a test script |Mr  |automation|Insprinttesting|| yes | london road |addressline2 | addressline3|reading |rg8 5dd |United Kingdom | |
+|this is a test script |Mr  |automation|Insprinttesting|just try| yes | london road |addresslin2 | |town | |Other|India|Y|

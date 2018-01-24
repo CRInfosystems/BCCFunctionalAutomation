@@ -1,0 +1,3 @@
+|postcode|errorMessage|lookupaddress|firstpermitnumber|secondpermitnumber|thirdpermitnumber|
+|G51 1NW|We couldn't find your address in our system. Please change the postcode.|SP10001|SP20001|SP30001|
+|52001|Please enter a valid UK postcode |SP10001|SP20001|SP30001|

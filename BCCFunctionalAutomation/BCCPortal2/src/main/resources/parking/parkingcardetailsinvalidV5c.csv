@@ -1,0 +1,5 @@
+|postcode|lookupaddress|offstreet|priavteparking|regno|       v5c    |firstname|lastname  |dateofbirth|
+|BS2 8UE |   2         |yes      |   no         |er345|23445         |     Dug | donald   |15/12/1982 |
+|bs8 4dj |   2         | no      |   no         |er345|23445afbkafbzx|     Dug | donald   |15/12/1982 |
+|bs8 4dj |   2         |yes      |   no         |er345|              |     Dug | donald   |15/12/1982 |
+|bs8 4dj |   2         |yes      |   no         |er345|234412542352  |     Dug | donald   |15/12/1982 |

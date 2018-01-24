@@ -1,0 +1,5 @@
+|postcode|offstreet|priavteparking|lookupaddress|expectedmsg|
+|bs8 4dj|no|no|2|You are also allowed 100 visitor permits.|
+|bs8 4dj|no|yes|2|You are also allowed 100 visitor permits.|
+|bs8 4dj|yes|no|2|You are also allowed 100 visitor permits.|
+|bs8 4dj|yes|yes|2|You are also allowed 100 visitor permits.|

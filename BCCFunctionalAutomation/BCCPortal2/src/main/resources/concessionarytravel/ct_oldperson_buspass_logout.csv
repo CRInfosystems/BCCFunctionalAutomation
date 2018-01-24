@@ -1,0 +1,4 @@
+|date|month|year|postcode|lookupaddress|title|firstname|lastname|email|phonenumber|photopath|equalitycheck|theirage|theirgender|theirtransgender|theiethnicity|theirrelegion|theirdisablility|theirsexual|
+|01|March|1939|BS84BJ|9 St Vincents Rocks West Mall Bristol BS8 4BJ|Mr|Harry|Potter|complaints12@mailinator.com|07446578765|/opt/bcc/tests/datafiles/uploadphoto/photo.png|N|
+|04|August|1952|BS84BJ|9 St Vincents Rocks West Mall Bristol BS8 4BJ|Mr|Harry|Potter|complaints12@mailinator.com|07446578765|/opt/bcc/tests/datafiles/uploadphoto/photo.png|N|
+|01|March|1939|BS84BJ|9 St Vincents Rocks West Mall Bristol BS8 4BJ|Mr|Harry|Potter|complaints12@mailinator.com|07446578765|/opt/bcc/tests/datafiles/uploadphoto/photo.png|Y|EIGHTEEN_TO_SIXTYFIVE|MALE|YES|OTHER_WHITE|NO|NO|HETEROSEXUAL|

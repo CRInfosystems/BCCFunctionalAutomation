@@ -1,0 +1,20 @@
+Use the following system properties to configure the tests...
+
+# Base path to test resources
+# Defaults to... /opt/bcc/tests/datafiles
+resource.path
+
+# Path to location that screen shots should be saved in
+# Defaults to... /opt/bcc/tests/screenshots/
+print.screen.path
+
+# Base server path
+# Defaults to value in config.properties which is normally http://localhost:8080
+server.path
+
+# The lead in page for the birth regstrations process
+# Defaults to... /home/page/-/item/servicepage/44
+birth.registrations.home.page
+
+An example mvn call with configurations is as follows:-
+mvn integration-tests -Dresource.path=/home/testuser/liferay-tests-portal/BCCPortal2/src/main/resources -Dprint.screen.path=/home/testuser/tests/screenprints -Dserver.path=http://l-dssdev-app1.bcc.lan:8080/ -Dbirth.registrations.home.page=/web/guest/lead-in

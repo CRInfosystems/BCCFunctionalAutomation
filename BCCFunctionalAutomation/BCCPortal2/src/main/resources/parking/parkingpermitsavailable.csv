@@ -1,0 +1,5 @@
+|postcode|offstreet|priavteparking|lookupaddress|expectedmsg|
+|bs8 4dj|no|no|2|Today you can get:|
+|bs8 4dj|no|yes|2|Today you can get:|
+|bs8 4dj|yes|no|2|Today you can get:|
+|bs8 4dj|yes|yes|2|Today you can get:|
